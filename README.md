@@ -1,4 +1,5 @@
 # ml-implementation
-Implementation of Machine Learning models
+Implementation of Machine Learning models from Congitive Class Tasks
 
-This includes training datasets, visualizations and the machine learning models implemented 
+This includes training datasets, seaborn visualizations and the models implemented
+Pardon the haphazard arrangement
